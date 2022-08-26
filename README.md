@@ -24,6 +24,7 @@ Also Next js optimizes images by default.
 
 - Implement infinite scroll (if the amount of companies fits in the user's ability to scroll);
 - Implement pagination (filtering logic might be moved to the server side);
+- Display applied filters in the URL and preserve them after page refresh;
 - Add "Select all" / "Deselect all" filters button;
 - Add "Show more" for filter options if there are more than N items;
 - Add search input validation (try entering "[[[" c:)
