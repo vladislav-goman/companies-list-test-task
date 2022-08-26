@@ -1,0 +1,702 @@
+[
+  {
+    "_id": "63066641a1baa06f7565db8d",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "XELEGYL",
+    "city": "Hayden",
+    "specialty": "Aerospace"
+  },
+  {
+    "_id": "63066641e99a16470fe8a75c",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "ZANITY",
+    "city": "Ballico",
+    "specialty": "Healthcare"
+  },
+  {
+    "_id": "63066641fe3ca6f599a90984",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "PEARLESSA",
+    "city": "Cressey",
+    "specialty": "Mining"
+  },
+  {
+    "_id": "630666418234c65210d6d67d",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "UNISURE",
+    "city": "Manila",
+    "specialty": "Insurance"
+  },
+  {
+    "_id": "6306664152b6d5f1e5f1cca3",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "VITRICOMP",
+    "city": "Bowie",
+    "specialty": "Accomodation"
+  },
+  {
+    "_id": "63066641739fe8f1adbeb6a1",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "ZAGGLE",
+    "city": "Newry",
+    "specialty": "Insurance"
+  },
+  {
+    "_id": "63066641cb57e97c0bb7f7a1",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "HAIRPORT",
+    "city": "Gouglersville",
+    "specialty": "Aerospace"
+  },
+  {
+    "_id": "63066641c2f584b4c7609a6d",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "AMTAP",
+    "city": "Herbster",
+    "specialty": "Agriculture"
+  },
+  {
+    "_id": "63066641e0fb56c753266249",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "DECRATEX",
+    "city": "Ripley",
+    "specialty": "Electrical"
+  },
+  {
+    "_id": "630666416dc6b59ef9f68551",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "COMBOT",
+    "city": "Cliff",
+    "specialty": "Retail"
+  },
+  {
+    "_id": "6306664166713f0a98d5eee3",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "IMANT",
+    "city": "Noblestown",
+    "specialty": "Retail"
+  },
+  {
+    "_id": "63066641d2eb0b937c2077ee",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "ESCENTA",
+    "city": "Yorklyn",
+    "specialty": "Excavation"
+  },
+  {
+    "_id": "63066641092f453677c84ec5",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "ZOLAVO",
+    "city": "Lloyd",
+    "specialty": "Electrical"
+  },
+  {
+    "_id": "6306664163652fd192b88aea",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "COMVERGES",
+    "city": "Ernstville",
+    "specialty": "Healthcare"
+  },
+  {
+    "_id": "630666418b20ff63af3ab0c2",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "OTHERWAY",
+    "city": "Gadsden",
+    "specialty": "Airline"
+  },
+  {
+    "_id": "63066641c59a7738dfe9d737",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "MAZUDA",
+    "city": "Sedley",
+    "specialty": "Aerospace"
+  },
+  {
+    "_id": "63066641e00da024af7ff83e",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "ZILCH",
+    "city": "Mappsville",
+    "specialty": "Aerospace"
+  },
+  {
+    "_id": "630666413119cf09594926b8",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "OMNIGOG",
+    "city": "Drytown",
+    "specialty": "Diagnostics"
+  },
+  {
+    "_id": "6306664155eba499801a7a39",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "ECOSYS",
+    "city": "Belleview",
+    "specialty": "Agriculture"
+  },
+  {
+    "_id": "630666417a2fc89a68d9d830",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "BIOLIVE",
+    "city": "Stagecoach",
+    "specialty": "Retail"
+  },
+  {
+    "_id": "63066641b1ab8bb9ac610615",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "MANGELICA",
+    "city": "Bradenville",
+    "specialty": "Diagnostics"
+  },
+  {
+    "_id": "63066641a5beabc3a324eb52",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "TALKALOT",
+    "city": "Hebron",
+    "specialty": "Agriculture"
+  },
+  {
+    "_id": "630666417fe433f8382e47ba",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "BUZZMAKER",
+    "city": "Geyserville",
+    "specialty": "Aerospace"
+  },
+  {
+    "_id": "630666418785d1c4da1073e4",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "NITRACYR",
+    "city": "Alden",
+    "specialty": "Agriculture"
+  },
+  {
+    "_id": "63066641a87aa4ca7a6d8c00",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "AUTOGRATE",
+    "city": "Nanafalia",
+    "specialty": "Agriculture"
+  },
+  {
+    "_id": "63066641d6ec01520ac18ae8",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "QUINEX",
+    "city": "Greenbackville",
+    "specialty": "Energy production"
+  },
+  {
+    "_id": "6306664154886ffb95d33455",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "FUELWORKS",
+    "city": "Orovada",
+    "specialty": "Retail"
+  },
+  {
+    "_id": "63066641864ffcd3f2001c94",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "CORPORANA",
+    "city": "Chautauqua",
+    "specialty": "Aerospace"
+  },
+  {
+    "_id": "630666411c380f08b6d40b21",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "BUZZWORKS",
+    "city": "Bynum",
+    "specialty": "Medical"
+  },
+  {
+    "_id": "63066641c2165197e8f5648b",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "APEXTRI",
+    "city": "Centerville",
+    "specialty": "Diagnostics"
+  },
+  {
+    "_id": "63066641e6cf854563d577de",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "GEEKMOSIS",
+    "city": "Avalon",
+    "specialty": "Medical"
+  },
+  {
+    "_id": "630666412f1e7362f8969905",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "AFFLUEX",
+    "city": "Hondah",
+    "specialty": "Software"
+  },
+  {
+    "_id": "6306664130a241b87012687b",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "STREZZO",
+    "city": "Gloucester",
+    "specialty": "Electrical"
+  },
+  {
+    "_id": "630666419c2229a1d88cb646",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "EXODOC",
+    "city": "Diaperville",
+    "specialty": "Design"
+  },
+  {
+    "_id": "63066641bbe934bf585e81b0",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "NORALI",
+    "city": "Brady",
+    "specialty": "Agriculture"
+  },
+  {
+    "_id": "630666416b902cef588564bc",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "UNI",
+    "city": "Russellville",
+    "specialty": "Semiconductors"
+  },
+  {
+    "_id": "6306664162ce631a66255e27",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "EARWAX",
+    "city": "Rehrersburg",
+    "specialty": "Utilities"
+  },
+  {
+    "_id": "63066641185ee8a5159bd5de",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "ZOID",
+    "city": "Lindcove",
+    "specialty": "Plumbing"
+  },
+  {
+    "_id": "63066641677ac1a33723fe1c",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "ASSISTIA",
+    "city": "Courtland",
+    "specialty": "Aerospace"
+  },
+  {
+    "_id": "630666418f7bb7f6da0ac1d5",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "VALPREAL",
+    "city": "Blodgett",
+    "specialty": "Mining"
+  },
+  {
+    "_id": "630666419364fffde954ecb2",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "COGENTRY",
+    "city": "Camas",
+    "specialty": "Aerospace"
+  },
+  {
+    "_id": "63066641543973a1d82c9ace",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "MICROLUXE",
+    "city": "Elwood",
+    "specialty": "Energy production"
+  },
+  {
+    "_id": "6306664178b405605f9d9f38",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "ORGANICA",
+    "city": "Gwynn",
+    "specialty": "Diagnostics"
+  },
+  {
+    "_id": "63066641b8e4c0cf7c93209c",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "SYNTAC",
+    "city": "Coyote",
+    "specialty": "Plumbing"
+  },
+  {
+    "_id": "630666413140d66595058cab",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "TOURMANIA",
+    "city": "Loma",
+    "specialty": "Insurance"
+  },
+  {
+    "_id": "63066641c6f6814818eabfde",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "QOT",
+    "city": "Whitewater",
+    "specialty": "Software"
+  },
+  {
+    "_id": "63066641f63a4b2fe69b1ac8",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "RODEOCEAN",
+    "city": "Helen",
+    "specialty": "Utilities"
+  },
+  {
+    "_id": "63066641a7317f5202bcc4a5",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "ARTIQ",
+    "city": "Strykersville",
+    "specialty": "Plumbing"
+  },
+  {
+    "_id": "63066641e9a4ab47a2fa4749",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "AQUAFIRE",
+    "city": "Jacksonburg",
+    "specialty": "Plumbing"
+  },
+  {
+    "_id": "63066641dc4cf6c924657241",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "URBANSHEE",
+    "city": "Venice",
+    "specialty": "Plumbing"
+  },
+  {
+    "_id": "63066641f8c66ac0bf35fc82",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "RUGSTARS",
+    "city": "Deercroft",
+    "specialty": "Medical"
+  },
+  {
+    "_id": "63066641b5e9b6757376a6ee",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "SOFTMICRO",
+    "city": "Garnet",
+    "specialty": "Retail"
+  },
+  {
+    "_id": "630666412230c91ea769a804",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "TSUNAMIA",
+    "city": "Brownlee",
+    "specialty": "Diagnostics"
+  },
+  {
+    "_id": "63066641c84670c1e7b4b1a7",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "TERSANKI",
+    "city": "Holtville",
+    "specialty": "Retail"
+  },
+  {
+    "_id": "6306664171add0a50dc648ee",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "GEEKETRON",
+    "city": "Greenwich",
+    "specialty": "Medical"
+  },
+  {
+    "_id": "63066641f96f7700d2dfb447",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "EXOBLUE",
+    "city": "Hachita",
+    "specialty": "Semiconductors"
+  },
+  {
+    "_id": "6306664156704dee2b7fd4a9",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "VERTON",
+    "city": "Grazierville",
+    "specialty": "Mining"
+  },
+  {
+    "_id": "6306664100df730720b1c0d9",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "RODEOMAD",
+    "city": "Mapletown",
+    "specialty": "Airline"
+  },
+  {
+    "_id": "6306664110cbf2a9c112dc21",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "ELEMANTRA",
+    "city": "Allison",
+    "specialty": "Airline"
+  },
+  {
+    "_id": "6306664121487b0b0424c359",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "CINASTER",
+    "city": "Grandview",
+    "specialty": "Software"
+  },
+  {
+    "_id": "63066641a7b34c5a1fbd5ca4",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "IMAGINART",
+    "city": "Ona",
+    "specialty": "Agriculture"
+  },
+  {
+    "_id": "63066641957e973c188d039e",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "ZILENCIO",
+    "city": "Mammoth",
+    "specialty": "Aerospace"
+  },
+  {
+    "_id": "63066641131f78b644239a49",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "ENORMO",
+    "city": "Curtice",
+    "specialty": "Software"
+  },
+  {
+    "_id": "630666415be6186349b614cf",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "QUAILCOM",
+    "city": "Hamilton",
+    "specialty": "Semiconductors"
+  },
+  {
+    "_id": "630666412ac0ad8c002017c9",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "AVENETRO",
+    "city": "Masthope",
+    "specialty": "Airline"
+  },
+  {
+    "_id": "630666419d1273ccf6dec616",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "XEREX",
+    "city": "Kraemer",
+    "specialty": "Healthcare"
+  },
+  {
+    "_id": "630666412088aa11c8ad189a",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "VALREDA",
+    "city": "Stockdale",
+    "specialty": "Software"
+  },
+  {
+    "_id": "630666417e4e272fa0bff790",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "GAPTEC",
+    "city": "Fairmount",
+    "specialty": "Diagnostics"
+  },
+  {
+    "_id": "630666416329f1131535359e",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "OPTICALL",
+    "city": "Advance",
+    "specialty": "Design"
+  },
+  {
+    "_id": "63066641ef3893e601344c1e",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "SULTRAX",
+    "city": "Loretto",
+    "specialty": "Semiconductors"
+  },
+  {
+    "_id": "63066641ce98f2eb81146b80",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "OHMNET",
+    "city": "Murillo",
+    "specialty": "Retail"
+  },
+  {
+    "_id": "63066641c70134648cc14a02",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "ARCHITAX",
+    "city": "Roderfield",
+    "specialty": "Semiconductors"
+  },
+  {
+    "_id": "63066641bdb84d482f4228cf",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "INSURITY",
+    "city": "Utting",
+    "specialty": "Diagnostics"
+  },
+  {
+    "_id": "6306664188617932a63b9a48",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "PAWNAGRA",
+    "city": "Rosine",
+    "specialty": "Excavation"
+  },
+  {
+    "_id": "630666411c8f620ab78c517a",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "QUADEEBO",
+    "city": "Templeton",
+    "specialty": "Retail"
+  },
+  {
+    "_id": "63066641baa93e1f649c037e",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "VELITY",
+    "city": "Gila",
+    "specialty": "Plumbing"
+  },
+  {
+    "_id": "630666415061c456d2c10560",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "ZOLAR",
+    "city": "Woodburn",
+    "specialty": "Medical"
+  },
+  {
+    "_id": "630666415c352f4c07a4768b",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "ISOSWITCH",
+    "city": "Coleville",
+    "specialty": "Diagnostics"
+  },
+  {
+    "_id": "6306664143c0a125b0e33ba3",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "BILLMED",
+    "city": "Cade",
+    "specialty": "Accomodation"
+  },
+  {
+    "_id": "63066641abd53666b84e126a",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "COMTOUR",
+    "city": "Martinez",
+    "specialty": "Energy production"
+  },
+  {
+    "_id": "63066641ff8c0b1356e309e0",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "KATAKANA",
+    "city": "Mayfair",
+    "specialty": "Semiconductors"
+  },
+  {
+    "_id": "63066641cfd8a75efb2740c9",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "INTRADISK",
+    "city": "Boomer",
+    "specialty": "Medical"
+  },
+  {
+    "_id": "630666411a0d09692b707b5b",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "ACCUSAGE",
+    "city": "Tetherow",
+    "specialty": "Retail"
+  },
+  {
+    "_id": "6306664139fb8dc27100c237",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "XURBAN",
+    "city": "Brazos",
+    "specialty": "Medical"
+  },
+  {
+    "_id": "630666419be79e75c3afdca3",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "RUBADUB",
+    "city": "Sehili",
+    "specialty": "Accomodation"
+  },
+  {
+    "_id": "63066641ee8f46c1887ea67d",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "EXOPLODE",
+    "city": "Caln",
+    "specialty": "Design"
+  },
+  {
+    "_id": "6306664107d8b5ad38ece4c8",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "COMVEX",
+    "city": "Wacissa",
+    "specialty": "Software"
+  },
+  {
+    "_id": "630666414c8f06608306384b",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "XUMONK",
+    "city": "Roulette",
+    "specialty": "Medical"
+  },
+  {
+    "_id": "6306664195e9b3b47977d2b0",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "ZEROLOGY",
+    "city": "Accoville",
+    "specialty": "Airline"
+  },
+  {
+    "_id": "63066641d6802e66b823a11b",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "TERASCAPE",
+    "city": "Duryea",
+    "specialty": "Insurance"
+  },
+  {
+    "_id": "630666413ca0fe32428ff31c",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "REVERSUS",
+    "city": "Harrodsburg",
+    "specialty": "Electrical"
+  },
+  {
+    "_id": "63066641267b97d7f39f6646",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "GINKOGENE",
+    "city": "Norwood",
+    "specialty": "Electrical"
+  },
+  {
+    "_id": "630666417413865be0e851fb",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "NAMEGEN",
+    "city": "Clinton",
+    "specialty": "Insurance"
+  },
+  {
+    "_id": "630666412ebd852d47a7a970",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "PARLEYNET",
+    "city": "Brenton",
+    "specialty": "Medical"
+  },
+  {
+    "_id": "630666417fc6c39049345afd",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "NIXELT",
+    "city": "Kansas",
+    "specialty": "Accomodation"
+  },
+  {
+    "_id": "630666413183a989e30fdb7e",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "THREDZ",
+    "city": "Kylertown",
+    "specialty": "Excavation"
+  },
+  {
+    "_id": "63066641563d5375aa470fa8",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "APEX",
+    "city": "Bannock",
+    "specialty": "Medical"
+  },
+  {
+    "_id": "63066641213a64272f34c0f6",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "MEDCOM",
+    "city": "Deputy",
+    "specialty": "Electrical"
+  },
+  {
+    "_id": "630666410a2593356fa96645",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "POLARIUM",
+    "city": "Caroleen",
+    "specialty": "Accomodation"
+  },
+  {
+    "_id": "630666413ca41c7bf3cdcc01",
+    "logo": "https://loremflickr.com/512/512",
+    "name": "BRAINQUIL",
+    "city": "Leland",
+    "specialty": "Energy production"
+  }
+]
