@@ -26,6 +26,7 @@ Also Next js optimizes images by default.
 - Implement pagination (filtering logic might be moved to the server side);
 - Add "Select all" / "Deselect all" filters button;
 - Add "Show more" for filter options if there are more than N items;
+- Add search input validation (try entering "[[[" c:)
 - Show amount of companies for each specialty filter and sort by this amount;
 - Implement picked filters with ability to easily untick an item;
 - Improve UI (loading indicators, accessibility, error messages, ... and surely general styling);
