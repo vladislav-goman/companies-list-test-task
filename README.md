@@ -36,3 +36,13 @@ Also Next js optimizes images by default.
 - Apply responsiveness (the app only looks good on desktop);
 - Move global state to React context (current need for that is questionable, but if the component tree would get more complicated this option becomes desired);
 - The code seems to be already pretty extension friendly (friendly to add new types of filtering - e.g. by city), but the way state for filtering data gets created might be refactored to make this process reusable for new filters.
+
+# How to launch
+## Development
+`npm install`
+`npm run dev`
+
+## Production 
+`npm install`
+`npm run build`
+`npm start`
